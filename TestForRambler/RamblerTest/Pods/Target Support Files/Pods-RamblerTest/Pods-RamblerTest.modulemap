@@ -1,0 +1,6 @@
+framework module Pods_RamblerTest {
+  umbrella header "Pods-RamblerTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
